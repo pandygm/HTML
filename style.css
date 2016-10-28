@@ -1,0 +1,47 @@
+*{
+	box-sizing: border-box;
+}
+
+header{
+	border:;
+}
+
+body {
+	color:navy;
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+
+
+}
+nav li {
+	color:red;
+	display: inline;
+	font-size: 1.5em
+}
+h1 {
+	color:green;
+}
+img {
+	width: 30%;
+	border: 2px solid red;
+}
+#examenItem {
+	border: 2px solid blue;
+	margin: 10px 0 10px 0;
+}
+#linkItem{
+	border: 2px dashed red;
+	margin: 10px 0 10px 0;
+}
+#mainItem{
+	border: 2px solid green;
+	margin: 10px 0 10px 0;
+}
+#llamas{
+	border: 2px dashed orange;
+	margin: 10px 10px 10px 10px;
+}
+#tucanes{
+	border: 2px dashed orange;
+	margin: 10px 10px 10px 10px;
+}
